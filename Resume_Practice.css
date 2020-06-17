@@ -573,3 +573,9 @@ button:focus {
 	}
 }
 
+@media screen and (max-width: 480px){
+	#about #my-image-container{
+		margin-top: -5rem;
+	}
+}
+
